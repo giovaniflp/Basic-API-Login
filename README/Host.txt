@@ -1,0 +1,3 @@
+Localhost:3000 is the main page of the project
+
+The user only login if the name and password are correct!

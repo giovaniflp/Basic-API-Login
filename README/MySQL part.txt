@@ -1,0 +1,7 @@
+The database connection is made in dao.js in 'database' folder
+
+Just go there and connect to your MySQL client parameters
+
+The Database in MySQL will have a table called users with collumns: id, name, login and password
+
+Example image in this folder.
